@@ -1,3 +1,3 @@
 # Breast Cancer Detection
 
-The cases of Breast Cancer are increasing day by day leading to more cancer-related deaths among women which can be prevented if diagnosed early. In this project, we have analysed the various methods used by the researchers, their advantages and limitations and we have tried to use, various supervised and unsupervised learning models like Random Forest, KNN, SVM, Logistic Regression, AdaBoost, and Perceptron and feature selection (Tree-Based Feature Importance) to try to create a model to increase the accuracy of the model to predict breast cancer. The dataset used for this is Wisconsin Breast Cancer Dataset which has 569 instances of breast cancer patients. Metrics like Accuracy, Precision, Recall, F1-Score, ROC-curve is used to judge the performance of the model
+- ** Motivation:
